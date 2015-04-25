@@ -1,2 +1,3 @@
 # gentooinstall
-Run this with a blank install media
+Run this with a blank harddrive
+
